@@ -1,5 +1,5 @@
 ---
-title: "DATA-VISIONS pour la Communication Sociale"
+title: "DATA-VISIONS pour la Communication Sociale [paroloj #01]"
 date: 2018-02-22T09:09:18+01:00
 draft: false
 disqusIdentifier: fdsF34ff34
@@ -19,13 +19,14 @@ showPagination: true
 showSocial: true
 showDate: false
 ---
-Montpellier, le 21 février 2018,
-
-En écho aux conversations sur les cartes, visualisations de données, et autres vues, avec:
-Inès,        
-David, David, David, Pablo, Romain,    
-Pierre, Sophie,     
-Alfonso, Armelle, Clément, Vincent.        
+*Montpellier,*    
+*le 21 février 2018,*    
+    
+*En écho aux conversations sur les cartes, visualisations de données, et autres vues, avec*:
+*Inès,*        
+*David, David, Pablo, Romain,*    
+*Pierre, Sophie,*     
+*Alfonso, Armelle, Clément, Vincent.*        
 
 
 ![carte de la parole](http://payload507.cargocollective.com/1/21/691541/12449396/Carte-Parole-intervention-Salige-mars-2017_1250.png)
@@ -208,4 +209,4 @@ des éventuelles belles vues,
 
 *(2) (3) (4) (5) (7): voyez l'[article de Sophie](http://www.les-ethers-fertiles.blog/21/02/2018/)*    
 
-(6) dans le cadre du World Forum for a Responsible Economy à Lille, les 5 thèmes étant: chocs technologiques, nouveaux modèles entrepreneuriaux, changements géopolitiques, savoirs et compétences, biens communs. Rapport produit au sein de la [Social Media Squad](www.socialmediasquad.cc), avec [Romain](twitter.com/openizer), ami et frère.
+*(6) dans le cadre du World Forum for a Responsible Economy à Lille, les 5 thèmes étant: chocs technologiques, nouveaux modèles entrepreneuriaux, changements géopolitiques, savoirs et compétences, biens communs. Rapport produit au sein de la [Social Media Squad](www.socialmediasquad.cc), avec [Romain](twitter.com/openizer), collaborateur et ami.*

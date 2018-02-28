@@ -1,5 +1,5 @@
 ---
-title: "La communication Sociale [Leksikono #1]"
+title: "LEXIQUE éthérien"
 date: 2018-02-21T16:31:54+01:00
 draft: false
 disqusIdentifier: fdsF34ff34
@@ -18,7 +18,7 @@ showSocial: true
 showDate: true
 ---
 
-**3 Paradigmes de la communication Sociale**
+**Paradigmes de la communication Sociale**
 
 # 1. La Publicité
 
