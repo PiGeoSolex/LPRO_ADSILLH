@@ -204,8 +204,8 @@ des éventuelles belles vues,
 
 *Habsinn - (pour poursuivre la conversation, c'est par ici: habib.belaribi@aquilenet.fr :-)*
 
-*(1) Éthériénopedia: Communication//sociale: Processus de création d’une vision partagée et de contextes communs à travers nos langages (mots, images ou gestes)// Qui se déroule au sein d’un réseau d’êtres humains.    
+*(1) Lexique éthérien: Communication//sociale: Processus de création d’une vision partagée et de contextes communs à travers nos langages (mots, images ou gestes)// Qui se déroule au sein d’un réseau d’êtres humains.*    
 
-(2) (3) (4) (5) (7): voir article de Sophie http://www.les-ethers-fertiles.blog/21/02/2018/    
+*(2) (3) (4) (5) (7): voyez l'[article de Sophie](http://www.les-ethers-fertiles.blog/21/02/2018/)*    
 
 (6) dans le cadre du World Forum for a Responsible Economy à Lille, les 5 thèmes étant: chocs technologiques, nouveaux modèles entrepreneuriaux, changements géopolitiques, savoirs et compétences, biens communs. Rapport produit au sein de la [Social Media Squad](www.socialmediasquad.cc), avec [Romain](twitter.com/openizer), ami et frère.
