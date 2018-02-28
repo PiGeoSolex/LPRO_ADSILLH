@@ -1,5 +1,5 @@
 ---
-title: "La communication Sociale [PLH#1]"
+title: "La communication Sociale [Leksikono #1]"
 date: 2018-02-21T16:31:54+01:00
 draft: false
 disqusIdentifier: fdsF34ff34
@@ -18,9 +18,7 @@ showSocial: true
 showDate: true
 ---
 
-Les Petites Leçons d'Habib (PLH #1) *La communication Sociale*
-
-**3 Paradigmes en communication Sociale**
+**3 Paradigmes de la communication Sociale**
 
 # 1. La Publicité
 
@@ -37,7 +35,7 @@ La publicité s'adapte à des supports différents et se transmet via des techno
 
 [ article media part facebook] (https://www.pressafrik.com/Enquete-Mediapart-Comment-Facebook-achete-la-presse-francaise_a173964.html)
 
-Les agences de publicité sur internet sont payés :
+Les agences de publicité sur internet sont payées :
 
 - *pay per clic* 
 - *pay per mil*
@@ -78,13 +76,6 @@ Conversation de personnes à personnes
 Comme il y a des traces en lignes de tout ce que l'on fait, des personnes peuvent s'en servir pour créer de fausses rumeurs "[astroturfing] (https://en.wikipedia.org/wiki/Astroturfing) "(Astro Turf : marque de faux gazons)
 Il faut donc toujours vérifier les sources. Il est toujours possible de manipuler les contenus d'autant plus que les réseaux utilisés sont des réseaux **centralisés** (facebook, tweeter...)
 
-**Notre approche :**
 
-- Ne pas parler en tant que marque
-- parler de personnes à personnes en choisissant les 8% qui créent déjà du contenu
-
-On veut faire des opérations de bouche à oreille d'égal à égal. Pas de rapport de force. On est dans une conversation ou l'on connaît l'intérêt de l'autre au moment t où on lui parle. (cf jeux : comment se connecter avec ses pairs au niveau international en 1 mois)
-Nous souhaitons être cohérent avec nos valeurs, de l'éthique hacker et du librisme. Nous ne souhaitons pas alors activer les leviers de la publicité ou des relations publiques car elles procèdent à une logique de manipulation des masses.
-Nous souhaitons faire émerger des conversations authentiques et que la communication sociale soit un moyen d'une collaboration entre personnes se considérant égales.  
 
 écrit par *Sophie Saradjian*,  sophie.saradjian@aquilenet.fr
